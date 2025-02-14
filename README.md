@@ -1,4 +1,4 @@
-# Assignment: Clean Code Principles - Refactoring Code
+# Clean Code Principles - Refactoring Code
 
 This project focuses on refactoring code by applying key Clean Code principles.
 
@@ -20,4 +20,4 @@ This project focuses on refactoring code by applying key Clean Code principles.
 ## Instructions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clean-code-assignment.git
+   git clone https://github.com/AbenezerAssefa/FinalSnakeGame.git
