@@ -1,0 +1,14 @@
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\bin\Debug\net8.0\CleanSnake.exe
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\bin\Debug\net8.0\CleanSnake.deps.json
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\bin\Debug\net8.0\CleanSnake.runtimeconfig.json
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\bin\Debug\net8.0\CleanSnake.dll
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\bin\Debug\net8.0\CleanSnake.pdb
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.AssemblyInfoInputs.cache
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.AssemblyInfo.cs
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.csproj.CoreCompileInputs.cache
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.dll
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\refint\CleanSnake.dll
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.pdb
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\CleanSnake.genruntimeconfig.cache
+C:\Users\a_el_kitari\Desktop\CleanSnake\CleanSnake\obj\Debug\net8.0\ref\CleanSnake.dll
